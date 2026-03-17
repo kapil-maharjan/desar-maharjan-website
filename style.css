@@ -230,7 +230,7 @@ input[type="text"] {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.95);
+    background: rgba(62, 41, 41, 0.911);
     z-index: 99999; /* ให้อยู่เหนือ header และทุกอย่าง */
     cursor: zoom-out;
     align-items: center;
